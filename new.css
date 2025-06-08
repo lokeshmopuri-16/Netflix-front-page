@@ -1,0 +1,13 @@
+html{
+  background-image: url(./netflix\ image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+ 
+}
+ img{
+   height: 80px;
+   width: 100px;
+ }
+
+ 
